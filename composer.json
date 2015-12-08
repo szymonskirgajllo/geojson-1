@@ -1,9 +1,9 @@
 {
-    "name": "jmikola/geojson",
+    "name": "szymonskirgajllo/geojson",
     "type": "library",
     "description": "GeoJSON implementation for PHP",
     "keywords": ["geo", "geospatial", "geojson"],
-    "homepage": "https://github.com/jmikola/geojson",
+    "homepage": "https://github.com/szymonskirgajllo/geojson-1",
     "license": "MIT",
     "authors": [
         { "name": "Jeremy Mikola", "email": "jmikola@gmail.com" }

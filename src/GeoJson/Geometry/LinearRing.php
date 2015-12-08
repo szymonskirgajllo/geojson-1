@@ -21,8 +21,8 @@ class LinearRing extends LineString
      */
     public function __construct(array $positions)
     {
-        if (count($positions) < 4) {
-            throw new \InvalidArgumentException('LinearRing requires at least four positions');
+        if (count($positions) < 1) {
+            throw new \InvalidArgumentException('LinearRing requires at least two positions');
         }
 
         $lastPosition = end($positions);
